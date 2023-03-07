@@ -1,0 +1,6 @@
+model_checkpoint_path: "Distmult-199"
+all_model_checkpoint_paths: "Distmult-195"
+all_model_checkpoint_paths: "Distmult-196"
+all_model_checkpoint_paths: "Distmult-197"
+all_model_checkpoint_paths: "Distmult-198"
+all_model_checkpoint_paths: "Distmult-199"

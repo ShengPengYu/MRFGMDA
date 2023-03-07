@@ -1,0 +1,6 @@
+GormTheOld	QueenOf	HaraldBluetooth
+Thyra	QueenOf	Denmark
+HaraldBluetooth	SucceededBy	SweynForkbeard
+Toke	SiblingOf	HaraldBluetooth
+SweynForkbeard	KingOf	England
+Harthacnut	KingOf	Denmark
