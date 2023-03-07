@@ -5,11 +5,10 @@ We propose a multi-relational graph encoder network for fine-grained prediction 
 We evaluated MRFGMDA and found that it accurately predicted miRNA-disease associations, which could have far-reaching implications for clinical medical analysis, early diagnosis, prevention, and treatment. Case analyses on three common diseases, including Kaplan-Meier survival analysis, expression difference analysis, and immune infiltration analysis, further demonstrated the effectiveness and feasibility of MRFGMDA to uncover potential disease-related miRNAs.
 Overall, our work represents a significant step towards improving the prediction of miRNA-disease associations using a fine-grained approach, which could ultimately lead to more accurate diagnosis and treatment of diseases.
 # FlowChat
-![img.png](img.png)
+![FlowChat.png](FlowChat.png)
 
 # Results:
-![img_1.png](img_1.png)
-
+![Results.png](Results.png)
 
 # Requirements
 * numpy~=1.17.0
