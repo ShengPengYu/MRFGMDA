@@ -11,6 +11,7 @@ The overall workflow of MRFGMDA. Part A, B, and C are carrying out data preproce
 
 # Results:
 Performance comparison of MRFGMDA with other nine methods with AUC index. We can see from the experimental figure that MRFGMDA has achieved outstanding results compared with the other nine excellent methods.
+
 ![Results.png](Results.png)
 
 # Requirements
